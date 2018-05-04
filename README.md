@@ -24,7 +24,7 @@ Eksemplene her er basert på koden i boken "Algorithms in C++" av Robert Sedgewi
   - Trees
 10. Høyreklikk på hvert prosjekt og velg **Properties**
 11. Gå til **Configuration Properties -> C/C++ -> Precompiled Headers** i listen til venstre
-12. Under **Precompiled Header** Velg **Not Using Precompiled Headers** i listen ok klikk bruk. 
+12. Under **Precompiled Header** Velg **Not Using Precompiled Headers** i listen og klikk bruk. 
 13. Gjenta trinn 10 - 12 for alle prosjektene
 14. Høyreklikk på **Solution 'AlgMetResources'(10 projects)** (Øverst i Solution Explorer) og velg **Rebuild Solution**.
 15. Du skal nå få opp meldingen: **========== Rebuild All: 10 succeeded, 0 failed, 0 skipped ==========** i output-vinduet
